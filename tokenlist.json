@@ -17,35 +17,35 @@
     },
     {
       "chainId": 6901,
-      "address": "0xa2AcE7706D10CED517E99063287954dEDF8aCf89",
+      "address": "0x96D68166DDc2B054511100f13F13b708556791F8",
       "name": "Test Token 1 - WETH",
       "symbol": "tWETH",
       "decimals": 18
     },
     {
       "chainId": 6901,
-      "address": "0x24F974683f29ab2B42Da2d72421251cB327C0a94",
+      "address": "0x22443F3e79eEc865F5c27190130b3DEF2e651A6f",
       "name": "Test Token 2 - wstETH",
       "symbol": "tWSTETH",
       "decimals": 18
     },
     {
       "chainId": 6901,
-      "address": "0x172f962E9Acf1D0EAfCFBC07174B585911D157b6",
+      "address": "0xDEf8E68079Cf458f1eCb6489bA61F9959bA99F9D",
       "name": "Test Token 3 - WBTC",
       "symbol": "tWBTC",
       "decimals": 8
     },
     {
       "chainId": 6901,
-      "address": "0x028774404B9861bc196D5f5468fEa0cE130C4600",
-      "name": "Test Token 4 - HONEY",
+      "address": "0x4355B9df1A55A87e7D908CB66fDe5372bD1f6d75",
+      "name": "Test Token 4 - tUSDT18",
       "symbol": "tUSDT18",
       "decimals": 18
     },
     {
       "chainId": 6901,
-      "address": "0xeeEb1416a06f94aaC2F00F6296ce66e0E79Fe852",
+      "address": "0x9721ED8CB78D6b2A1859B8bc57A75E9B36A5CBaB",
       "name": "Test Token 5 - USDC",
       "symbol": "tUSDC",
       "decimals": 6
@@ -54,7 +54,7 @@
       "chainId": 6901,
       "name": "LIPTON",
       "symbol": "LIPTON",
-      "address": "0x2860BD77ee408517bf9068c8A64e27ab16eaa896",
+      "address": "0xD3bC693044D3322719651E6c02AB1a25432422EF",
       "decimals": 18,
       "isProtocolRelated": true
     },
@@ -62,7 +62,7 @@
       "chainId": 6901,
       "name": "vLIPTON",
       "symbol": "vLIPTON",
-      "address": "0x64c1E07Ca00572560F7F8c325D5287667d110B2D",
+      "address": "0x555D9393Ea60C5a689BbAba43E1E10b899F19ebf",
       "decimals": 18,
       "isProtocolRelated": true
     },
@@ -70,7 +70,7 @@
       "chainId": 6901,
       "name": "xLIPTON",
       "symbol": "xLIPTON",
-      "address": "0x1C93Db27F5Cc089B58437dEd17d2d0551F49F3bB",
+      "address": "0x46C9c2935FD0857d2BFc6bC73629618Dd2ca0f18",
       "decimals": 18,
       "isProtocolRelated": true
     }
