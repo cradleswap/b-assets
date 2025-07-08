@@ -1,6 +1,6 @@
 {
   "name": "token list",
-  "timestamp": "2025-07-07T01:00:00Z",
+  "timestamp": "2025-07-08T01:00:00Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -10,42 +10,42 @@
     {
       "chainId": 6901,
       "name": "Wrapped Baby",
-      "address": "0x9b2C84A0a947d105825ADAFd85D29Caa85d978f2",
+      "address": "0xC8b479088D332F1cf923617A8AaBD163AfcBa143",
       "symbol": "WBABY",
-      "decimals": 6,
+      "decimals": 18,
       "isWrappedNative": true
     },
     {
       "chainId": 6901,
-      "address": "0x43CE53d9b83c469246AAB122534D95F4Ddc2973d",
+      "address": "0x78A8eB0f3D91b088667bCD7cA3d09FD0402A7E9E",
       "name": "Test Token 1 - WETH",
       "symbol": "tWETH",
       "decimals": 18
     },
     {
       "chainId": 6901,
-      "address": "0x0281dB692A8E22E2Bc6211F96c7A10Bf3F9099F8",
+      "address": "0xe198e0bAb57ad9dc47358e0A460B8bB3Fa57fdf0",
       "name": "Test Token 2 - wstETH",
       "symbol": "tWSTETH",
       "decimals": 18
     },
     {
       "chainId": 6901,
-      "address": "0x18FC268F1C9E2Bc9841111ace58d127ebED295b8",
+      "address": "0x8C5d84b6aa1FC48eBfDFfE0983BF218F42F3e9b6",
       "name": "Test Token 3 - WBTC",
       "symbol": "tWBTC",
       "decimals": 8
     },
     {
       "chainId": 6901,
-      "address": "0xD9542282C0AFadDcd68268e8d115FDe3dCdd7914",
+      "address": "0x4e23BCaf67892009377F0fB92BB3AD35fB239af6",
       "name": "Test Token 4 - tUSDT18",
       "symbol": "tUSDT18",
       "decimals": 18
     },
     {
       "chainId": 6901,
-      "address": "0x0F39265714c59C3ca2D93e368339c946bb91a77F",
+      "address": "0xf03e0B20d43021773538C47788b38ca8D5a2Bb78",
       "name": "Test Token 5 - USDC",
       "symbol": "tUSDC",
       "decimals": 6
@@ -54,7 +54,7 @@
       "chainId": 6901,
       "name": "CRADLE",
       "symbol": "CRADLE",
-      "address": "0x7b51F26a51BE00E3f4634b46B4e5FC8cd56fb10e",
+      "address": "0x7869072b01e8A3d8BCD3f5fF1bB3111725576864",
       "decimals": 18,
       "isProtocolRelated": true
     },
@@ -62,7 +62,7 @@
       "chainId": 6901,
       "name": "vCRADLE",
       "symbol": "vCRADLE",
-      "address": "0xFDd2C7c07e61C219D88Fe27A08dE7163cc6b714b",
+      "address": "0x259cC488a05C1521Ef064847cf05BB4643967a8a",
       "decimals": 18,
       "isProtocolRelated": true
     },
@@ -70,7 +70,7 @@
       "chainId": 6901,
       "name": "xCRADLE",
       "symbol": "xCRADLE",
-      "address": "0xa559D2799c1430625c7d39858dF9a38504f741F1",
+      "address": "0xAbAf6d96c920340f8705c5f765D436392D3950Fc",
       "decimals": 18,
       "isProtocolRelated": true
     }
