@@ -52,24 +52,24 @@
     },
     {
       "chainId": 6901,
-      "name": "LIPTON",
-      "symbol": "LIPTON",
+      "name": "CRADLE",
+      "symbol": "CRADLE",
       "address": "0x7b51F26a51BE00E3f4634b46B4e5FC8cd56fb10e",
       "decimals": 18,
       "isProtocolRelated": true
     },
     {
       "chainId": 6901,
-      "name": "vLIPTON",
-      "symbol": "vLIPTON",
+      "name": "vCRADLE",
+      "symbol": "vCRADLE",
       "address": "0xFDd2C7c07e61C219D88Fe27A08dE7163cc6b714b",
       "decimals": 18,
       "isProtocolRelated": true
     },
     {
       "chainId": 6901,
-      "name": "xLIPTON",
-      "symbol": "xLIPTON",
+      "name": "xCRADLE",
+      "symbol": "xCRADLE",
       "address": "0xa559D2799c1430625c7d39858dF9a38504f741F1",
       "decimals": 18,
       "isProtocolRelated": true
