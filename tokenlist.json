@@ -54,7 +54,7 @@
       "chainId": 6901,
       "name": "LIPTON",
       "symbol": "LIPTON",
-      "address": "0xD3bC693044D3322719651E6c02AB1a25432422EF",
+      "address": "0x7b51F26a51BE00E3f4634b46B4e5FC8cd56fb10e",
       "decimals": 18,
       "isProtocolRelated": true
     },
@@ -62,7 +62,7 @@
       "chainId": 6901,
       "name": "vLIPTON",
       "symbol": "vLIPTON",
-      "address": "0x555D9393Ea60C5a689BbAba43E1E10b899F19ebf",
+      "address": "0xFDd2C7c07e61C219D88Fe27A08dE7163cc6b714b",
       "decimals": 18,
       "isProtocolRelated": true
     },
@@ -70,7 +70,7 @@
       "chainId": 6901,
       "name": "xLIPTON",
       "symbol": "xLIPTON",
-      "address": "0x46C9c2935FD0857d2BFc6bC73629618Dd2ca0f18",
+      "address": "0xa559D2799c1430625c7d39858dF9a38504f741F1",
       "decimals": 18,
       "isProtocolRelated": true
     }
