@@ -17,35 +17,35 @@
     },
     {
       "chainId": 6901,
-      "address": "0x96D68166DDc2B054511100f13F13b708556791F8",
+      "address": "0x43CE53d9b83c469246AAB122534D95F4Ddc2973d",
       "name": "Test Token 1 - WETH",
       "symbol": "tWETH",
       "decimals": 18
     },
     {
       "chainId": 6901,
-      "address": "0x22443F3e79eEc865F5c27190130b3DEF2e651A6f",
+      "address": "0x0281dB692A8E22E2Bc6211F96c7A10Bf3F9099F8",
       "name": "Test Token 2 - wstETH",
       "symbol": "tWSTETH",
       "decimals": 18
     },
     {
       "chainId": 6901,
-      "address": "0xDEf8E68079Cf458f1eCb6489bA61F9959bA99F9D",
+      "address": "0x18FC268F1C9E2Bc9841111ace58d127ebED295b8",
       "name": "Test Token 3 - WBTC",
       "symbol": "tWBTC",
       "decimals": 8
     },
     {
       "chainId": 6901,
-      "address": "0x4355B9df1A55A87e7D908CB66fDe5372bD1f6d75",
+      "address": "0xD9542282C0AFadDcd68268e8d115FDe3dCdd7914",
       "name": "Test Token 4 - tUSDT18",
       "symbol": "tUSDT18",
       "decimals": 18
     },
     {
       "chainId": 6901,
-      "address": "0x9721ED8CB78D6b2A1859B8bc57A75E9B36A5CBaB",
+      "address": "0x0F39265714c59C3ca2D93e368339c946bb91a77F",
       "name": "Test Token 5 - USDC",
       "symbol": "tUSDC",
       "decimals": 6
